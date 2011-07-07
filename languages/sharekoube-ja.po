@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sharekoube\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Keisuke Nemoto <nemooon@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "mixi Check"
+msgstr "mixiチェック"
+
+msgid "Click to share on mixi Check"
+msgstr "クリックして mixiチェック で共有"
+
+msgid "button-1"
+msgstr "ボタン１"
+
+msgid "button-2"
+msgstr "ボタン２"
+
+msgid "button-3"
+msgstr "ボタン３"
+
+msgid "button-4"
+msgstr "ボタン４"
+
+msgid "button-5"
+msgstr "ボタン５"
+
+msgid "Button"
+msgstr "ボタン"
+
+msgid "OGP meta to output"
+msgstr "OGPメタタグを出力"
+
+msgid "Namespace"
+msgstr "名前空間"
+
+msgid "Not set mixi check key"
+msgstr "mixiチェックキーが設定されていません。"
+
+msgid "mixi check key"
+msgstr "mixiチェックキー"
+
+msgid "Hatena Bookmark"
+msgstr "はてなブックマーク"
+
+msgid "Google Buzz"
+msgstr "Google バズ"
+
+msgid "Click to share on Hatena Bookmark"
+msgstr "クリックして はてなブックマーク で共有"
+
+msgid "Click to share on Evernote"
+msgstr "クリックして Evernote で共有"
+
+msgid "Click to share on Google Buzz"
+msgstr "クリックして Google バズ で共有"
+
+msgid "Use smart button"
+msgstr "スマートボタンを使用"
+
+msgid "Include count"
+msgstr "カウントを付ける"
+
+msgid "default"
+msgstr "デフォルトボタン"
+
+msgid "small"
+msgstr "スモールボタン"
+
+msgid "medium"
+msgstr "ミディアムボタン"
+
+msgid "standard"
+msgstr "スタンダードボタン"
+
+msgid "original"
+msgstr "オリジナルボタン"
+
+msgid "remember"
+msgstr "リメンバーボタン"
+
+msgid "japanese"
+msgstr "日本語ボタン"
+
+msgid "small-count"
+msgstr "カウント付きボタン"
+
+msgid "small-button"
+msgstr "カウント無しボタン"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Usage"
+msgstr "使い方"
+
+msgid "Sharing to mixi check."
+msgstr "mixiチェックで共有"
+
+msgid "nemooon"
+msgstr "nemooon"
+

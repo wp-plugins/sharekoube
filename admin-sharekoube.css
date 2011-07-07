@@ -1,0 +1,261 @@
+
+/**
+ * mixi
+ */
+.services ul li#mixi-check {
+	background: #FFF url(images/mixi-check.gif) no-repeat 4px 6px;
+}
+
+.services ul li#mixi-check .input {
+	padding-bottom: 3px;
+}
+
+.services ul li#mixi-check .input label {
+	padding-left: 3px;
+}
+
+.services ul li#mixi-check .input input[type="submit"] {
+	float: none;
+}
+
+.preview li.preview-mixi-check {
+	padding: 0 !important;
+}
+
+.preview-mixi-check .option-smart-off {
+	background: #FFF url(images/mixi-check.gif) no-repeat 0 5px;
+	padding: 5px 0 5px 20px;
+}
+.preview-mixi-check .option-smart-on.option-button-1 {
+	background: #FFF url(images/mixi-check-button_1.png) no-repeat top left;
+	width:58px;
+	height:18px;
+	margin-top: 4px;
+}
+.preview-mixi-check .option-smart-on.option-button-2 {
+	background: #FFF url(images/mixi-check-button_2.png) no-repeat top left;
+	width:77px;
+	height:18px;
+	margin-top: 4px;
+}
+.preview-mixi-check .option-smart-on.option-button-3 {
+	background: #FFF url(images/mixi-check-button_3.png) no-repeat top left;
+	width:55px;
+	height:18px;
+	margin-top: 4px;
+}
+.preview-mixi-check .option-smart-on.option-button-4 {
+	background: #FFF url(images/mixi-check-button_4.png) no-repeat top left;
+	width:76px;
+	height:18px;
+	margin-top: 4px;
+}
+.preview-mixi-check .option-smart-on.option-button-5 {
+	background: #FFF url(images/mixi-check-button_5.png) no-repeat top left;
+	width:84px;
+	height:25px;
+	margin-top: 0px;
+}
+
+/**
+ * Hatena Bookmark
+ */
+.services ul li#hatena-bookmark {
+	background: #FFF url('./images/hatena-bookmark.png') no-repeat 4px 5px;
+}
+
+.services ul li#hatena-bookmark .input {
+	padding-bottom: 3px;
+}
+
+.services ul li#hatena-bookmark .input label {
+	padding-left: 3px;
+}
+
+.services ul li#hatena-bookmark .input input[type="submit"] {
+	float: none;
+}
+
+.preview li.preview-hatena-bookmark {
+	padding: 0 !important;
+}
+
+.preview-hatena-bookmark .option-smart-off {
+	background: #FFF url('./images/hatena-bookmark.png') no-repeat 0 5px;
+	padding: 5px 0 5px 20px;
+}
+.preview-hatena-bookmark .option-smart-on {
+	background: #FFF url('./images/hatena-bookmark-smart.png') no-repeat top left;
+	width:50px;
+	height:20px;
+	margin-top: 3px;
+}
+.preview-hatena-bookmark .option-smart-on-simple {
+	background: #FFF url('./images/hatena-bookmark-simple.png') no-repeat top left;
+	width:20px;
+	height:20px;
+	margin-top: 3px;
+}
+
+/**
+ * Evernote
+ */
+.services ul li#evernote {
+	background: #FFF url("./images/evernote.png") no-repeat 4px 5px;
+}
+
+.services ul li#evernote .input {
+	padding-bottom: 3px;
+}
+
+.services ul li#evernote .input label {
+	padding-left: 3px;
+}
+
+.services ul li#evernote .input input[type="submit"] {
+	float: none;
+}
+
+.preview li.preview-evernote {
+	padding: 0 !important;
+}
+
+.preview-evernote .option-smart-off {
+	background: #FFF url("./images/evernote.png") no-repeat 0 5px;
+	padding: 5px 0 5px 20px;
+}
+.preview-evernote .option-smart-on.option-original {
+	background: #FFF url("./images/evernote-clipper.png") no-repeat top left;
+	width:51px;
+	height:17px;
+	margin-top: 4px;
+}
+.preview-evernote .option-smart-on.option-remember {
+	background: #FFF url("./images/evernote-clipper-remember.png") no-repeat top left;
+	width:93px;
+	height:17px;
+	margin-top: 4px;
+}
+.preview-evernote .option-smart-on.option-japanese {
+	background: #FFF url("./images/evernote-clipper-jp.png") no-repeat top left;
+	width:58px;
+	height:17px;
+	margin-top: 4px;
+}
+.preview-evernote .option-smart-on.option-mini {
+	background: #FFF url("./images/evernote.png") no-repeat top left;
+	width:16px;
+	height:16px;
+	margin-top: 5px;
+}
+/**
+ * Google Buzz
+ */
+.services ul li#google-buzz {
+	background: #FFF url("./images/google-buzz-16x16.png") no-repeat 4px 5px;
+}
+
+.services ul li#google-buzz .input {
+	padding-bottom: 3px;
+}
+
+.services ul li#google-buzz .input label {
+	padding-left: 3px;
+}
+
+.services ul li#google-buzz .input input[type="submit"] {
+	float: none;
+}
+
+.preview li.preview-google-buzz {
+	padding: 0 !important;
+}
+
+.preview-google-buzz .option-smart-off {
+	background: #FFF url("./images/google-buzz-16x16.png") no-repeat 0 5px;
+	padding: 5px 0 5px 20px;
+}
+.preview-google-buzz .option-smart-on.option-small-button {
+	background: #FFF url("./images/google-buzz-small-button-ja.gif") no-repeat top left;
+	width:52px;
+	height:18px;
+	margin-top: 4px;
+}
+.preview-google-buzz .option-smart-on.option-small-count {
+	background: #FFF url("./images/google-buzz-small-count-ja.gif") no-repeat top left;
+	width:94px;
+	height:18px;
+	margin-top: 4px;
+}
+
+/**
+ * Google +1
+ */
+.services ul li#google-plus {
+	background: #FFF url("./images/google-plus-24x15.png") no-repeat 5px 6px;
+	padding-left: 33px;
+}
+.services ul li#google-plus .advanced-form {
+	margin-left: -33px;
+}
+
+.services ul li#google-plus .input {
+	padding-bottom: 3px;
+}
+
+.services ul li#google-plus .input label {
+	padding-left: 3px;
+}
+
+.services ul li#google-plus .input input[type="submit"] {
+	float: none;
+}
+
+.preview li.preview-google-plus {
+	padding: 0 !important;
+}
+
+.preview-google-plus .option-smart-off {
+	background: #FFF url("./images/google-plus-24x15.png") no-repeat 0 6px;
+	padding: 5px 0 5px 28px;
+}
+.preview-google-plus .option-smart-on.option-small {
+	background: #FFF url("./images/google-plus-24x15.png") no-repeat top left;
+	width:24px;
+	height:15px;
+	margin-top: 5px;
+}
+.preview-google-plus .option-smart-on.option-small.with-count {
+	background: #FFF url("./images/google-plus-48x15.png") no-repeat top left;
+	width:48px;
+}
+.preview-google-plus .option-smart-on.option-medium {
+	background: #FFF url("./images/google-plus-32x20.png") no-repeat top left;
+	width:32px;
+	height:20px;
+	margin-top: 2px;
+}
+.preview-google-plus .option-smart-on.option-medium.with-count {
+	background: #FFF url("./images/google-plus-60x20.png") no-repeat top left;
+	width:60px;
+}
+.preview-google-plus .option-smart-on.option-standard {
+	background: #FFF url("./images/google-plus-38x24.png") no-repeat top left;
+	width:38px;
+	height:24px;
+	margin-top: 1px;
+}
+.preview-google-plus .option-smart-on.option-standard.with-count {
+	background: #FFF url("./images/google-plus-66x24.png") no-repeat top left;
+	width:66px;
+}
+.preview-google-plus .option-smart-on.option-tall {
+	background: #FFF url("./images/google-plus-50x20.png") no-repeat top left;
+	width:50px;
+	height:20px;
+	margin-top: 2px;
+}
+.preview-google-plus .option-smart-on.option-tall.with-count {
+	background: #FFF url("./images/google-plus-50x60.png") no-repeat top left;
+	height:60px;
+}

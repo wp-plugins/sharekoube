@@ -1,0 +1,175 @@
+@charset "utf-8";
+
+.sharing {
+	clear: both;
+}
+
+/**
+ * 	twitter
+ */
+.sharing li.share-twitter .twitter_button {
+	padding-top: 1px;
+	padding-bottom: 0px;
+	height: 20px;
+}
+
+/**
+ * 	Facebook
+ */
+.sharing li.share-facebook .like_button {
+	padding-top: 1px;
+}
+.sharing li.share-facebook .like_button iframe {
+	width: 110px !important;
+}
+
+/**
+ * Hatena Bookmark
+ */
+.sharing li .hatena-bookmark-button,
+.sharing-hidden li .hatena-bookmark-button {
+	padding-top: 1px;
+	height: 20px;
+}
+
+.sharing a.share-hatena-bookmark,
+.sharing-hidden a.share-hatena-bookmark {
+	background: url("./images/hatena-bookmark.png") no-repeat scroll left center transparent;
+}
+
+/**
+ * mixi
+ */
+.sharing li .mixi-favorite,
+.sharing li .mixi-check-button-1,
+.sharing li .mixi-check-button-2,
+.sharing li .mixi-check-button-3,
+.sharing li .mixi-check-button-4 {
+	padding-top: 1px;
+	height: 20px;
+}
+.sharing li .mixi-check-button-5 {
+	padding-top: -2px;
+}
+.sharing li a.mixi-check-button,
+.sharing-hidden li a.mixi-check-button {
+	padding: 0;
+}
+
+.sharing a.mixi-check-button,
+.sharing-hidden a.mixi-check-button {
+	line-height: 0;
+}
+
+.sharing a.mixi-check-button img,
+.sharing-hidden a.mixi-check-button img {
+	padding: 0;
+	max-width: 100%;
+}
+
+.sharing a.share-mixi-check,
+.sharing-hidden a.share-mixi-check {
+	background: url("./images/mixi-check.gif") no-repeat scroll left center transparent;
+}
+
+/**
+ * Evernote
+ */
+.sharing li .evernote-button-original,
+.sharing li .evernote-button-remember,
+.sharing li .evernote-button-japanese {
+	padding-top: 2px;
+}
+.sharing li .evernote-button-mini {
+	padding-top: 5px;
+}
+
+.sharing li a.share-evernote-button,
+.sharing-hidden li a.share-evernote-button {
+	padding: 0;
+}
+
+.sharing a.share-evernote-button,
+.sharing-hidden a.share-evernote-button {
+	line-height: 0;
+}
+
+.sharing a.share-evernote-button img,
+.sharing-hidden a.share-evernote-button img {
+	padding: 0;
+	max-width: 100%;
+}
+
+.sharing a.share-evernote,
+.sharing-hidden a.share-evernote {
+	background: url("./images/evernote.png") no-repeat scroll left center transparent;
+}
+
+/**
+ * Google Buzz
+ */
+.sharing li.share-google-buzz .buzz_button {
+	padding-top: 2px;
+	padding-bottom: 0px;
+	height: 19px;
+}
+.sharing li.share-google-buzz .buzz_button a {
+	padding: 0;
+	height: 19px;
+	line-height: 1em;
+}
+.sharing li.share-google-buzz .buzz_button.small-button {
+	padding-top: 1px;
+}
+.sharing li.share-google-buzz .buzz_button.small-button a {
+	line-height: 18px;
+}
+.sharing a.share-google-buzz,
+.sharing-hidden a.share-google-buzz {
+	background: url("./images/google-buzz-16x16.png") no-repeat scroll left center transparent;
+}
+
+/**
+ * Google +1
+ */
+.sharing li.share-google-plus {
+}
+.sharing li.share-google-plus .google-plus-button {
+	padding-top: 0;
+}
+.sharing li.share-google-plus .google-plus-button.small {
+	padding-top: 1px;
+	width: 24px;
+	height: 15px;
+}
+.sharing li.share-google-plus .google-plus-button.small.count {
+	width: 50px;
+}
+.sharing li.share-google-plus .google-plus-button.medium {
+	padding-top: 1px;
+	width: 32px;
+	height: 20px;
+}
+.sharing li.share-google-plus .google-plus-button.medium.count {
+	width: 61px;
+}
+.sharing li.share-google-plus .google-plus-button.standard {
+	width: 38px;
+	height: 24px;
+}
+.sharing li.share-google-plus .google-plus-button.standard.count {
+	width: 67px;
+}
+.sharing li.share-google-plus .google-plus-button.tall {
+	padding-top: 1px;
+	width: 50px;
+	height: 20px;
+}
+.sharing li.share-google-plus .google-plus-button.tall.count {
+	height: 60px;
+}
+.sharing a.share-google-plus,
+.sharing-hidden a.share-google-plus {
+	padding-left: 28px;
+	background: url("./images/google-plus-24x15.png") no-repeat scroll left center transparent;
+}
